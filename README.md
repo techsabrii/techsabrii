@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Abdul Basit</h1>
 <h3 align="center">A passionate Full stack developer from Pakistan</h3>
 
-<div align="center">
-  <img src="https://techsabrii.com/storage/IMG20230719172956.jpg" alt="Abdul Basit" width="150" height="150" style="border-radius: 50%; object-fit: cover;">
+<div align="center" style="border-radius: 50%">
+  <img src="https://techsabrii.com/storage/IMG-202209.png" alt="Abdul Basit" width="150" height="150" style="border-radius: 50%; object-fit: cover;">
 </div>
 
 
