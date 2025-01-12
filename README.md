@@ -4,7 +4,7 @@
 <p align="center">
   <img src="https://techsabrii.com/storage/IMG20230719172956.jpg" alt="Abdul Basit" width="150" height="150" style="border-radius: 50%;">
 </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=techsabrii" alt="techsabrii" /></a> </p>
+
 
 - 🔭 I’m currently working on [Hybrid Technology Hub with UPR](https://github.com/techsabrii/html-Practices-NOV-2024-badge)
 
