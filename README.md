@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full stack developer from Pakistan</h3>
 
 <div align="left" >
-  <img src="https://techsabrii.com/storage/IMG-202209.png" alt="Abdul Basit" width="250" height="250" >
+  <img src="https://ts-developers.com/img/icon/logo.png" alt="Abdul Basit" width="250" height="250" >
 </div>
 
 
