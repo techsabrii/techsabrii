@@ -35,14 +35,7 @@
 
 ---
 
-### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TS-Developer-collab&show_icons=true&theme=radical" alt="Abdul Basit GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=techsabrii&theme=radical" alt="GitHub Streak" />
-</p>
-
----
 
 ### 🚀 Latest Projects
 
